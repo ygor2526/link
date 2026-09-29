@@ -1,0 +1,37 @@
+*1. Tamanho do Disco e Potência*
+
+- 4.1/2" (115 mm) a 5" (125 mm): As mais leves e versáteis. Ideais para trabalhos detalhados, locais de difícil acesso, reformas leves e serralheria.
+
+- 7" (180 mm) a 9" (230 mm): Modelos grandes e de alta potência. Indicados para cortes profundos em concreto, alvenaria, vigas metálicas e trabalhos industriais contínuos.
+
+- Potência Recomendada: Para uso hobby, de 600 W a 800 W é suficiente. Para uso profissional ou severo, busque modelos acima de 1.000 W (ou sistemas de 18V/36V a bateria de alta corrente).
+
+*2. Escolha do Disco Correto*
+
+- Disco de Corte: Fino, projetado exclusivamente para cortar metais, pedras ou inox. Nunca use para desbastar.
+
+- Disco de Desbaste: Mais espesso, feito para remover rebarbas, cordões de solda e nivelar superfícies.
+
+- Disco Diamantado: Ideal para concreto, piso, azulejo e pedra. Pode ser liso (piso/vidro), segmentado (concreto/tijolo) ou turbo (corte rápido com bom acabamento).
+
+- Disco Flap: Composto por lixas sobrepostas, perfeito para dar acabamento e lixar metais ou madeira com controle.
+
+*3. Recursos de Segurança Indispensáveis*
+
+- Empunhadura Auxiliar: Mantenha sempre as duas mãos na ferramenta para controle total.
+
+- Capa de Proteção (Defletor): Direciona faíscas e resíduos longe do operador e protege em caso de quebra do disco.
+
+- Sistema Anti-Contragolpe (KickBack Stop / SJS): Desliga o motor instantaneamente se o disco travar no material.
+
+- EPIs Obrigatórios: Óculos de proteção (ou protetor facial), abafador de ruído, luvas de couro e sapato de segurança.
+
+*4. Boas Práticas de Uso e Manutenção*
+
+- Inspecione o Disco: Verifique se há trincas ou desgastes antes de ligar a máquina.
+
+- Respeite a Rotação (RPM): O RPM máximo do disco deve ser sempre igual ou superior ao RPM máximo da máquina.
+
+- Deixe a Ferramenta Trabahar: Não force o disco contra o material; o peso da máquina e a rotação devem fazer o corte.
+
+- Limpeza da Poeira: Sopre o pó das entradas de ar do motor periodicamente para evitar o acúmulo de resíduos abrasivos na parte elétrica.

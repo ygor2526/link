@@ -1,0 +1,116 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    background-color: #082758;
+}
+
+#menu {
+    gap: 30px;
+    display: flex;
+    padding-right: 40px ;
+}
+
+#logo {
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+
+h1 {
+    color: white;
+}
+
+a {
+    color: black;
+    background-color: gold;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#introducao {
+    background-color: rgba(98, 135, 255, 0.178);
+    padding: 40px;
+}
+
+h2 {
+    font-size: 50px;
+    padding: 10px;
+}
+
+#curiosidades{
+    align-items: center;
+    padding: 30px;
+    background-color: #f4f0e6;
+}
+
+#cards {
+    background-color: rgba(135, 206, 250, 0.301);
+    display: flex;
+    padding: 30px;
+    gap: 30px;
+}
+
+#texto span {
+    padding: 10px;
+    color: lightskyblue;
+    font-size: 30px;
+}
+
+
+.cardsecundario {
+    background-color: white;
+    margin: 5px;
+    padding: 15px;
+    border-radius: 10px;
+    width: 100%;
+}
+
+#cardprincipal p {
+    text-align: center;
+}
+
+#cardprincipal img {
+    border-radius: 10px;
+    height: 550px;
+    width: 550px;
+}
+
+h3 {
+    font-size: 25px;
+    padding: 10px;
+
+}
+
+h4 {
+    padding: 20px;
+    text-align: left;
+    font-size: 20px;
+}
+
+
+#rodape {
+    background-color: #082758;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    gap: 20px;
+}
+
+small {
+    color: white;
+    display: flex;
+}
+
+span {
+    color: goldenrod;
+    font-weight: bold;
+}
