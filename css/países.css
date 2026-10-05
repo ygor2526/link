@@ -1,0 +1,123 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(173, 216, 230, 0.199);
+}
+
+span {
+    color: rgb(253, 3, 3);
+    font-weight: bold;
+}
+
+header {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     background-color: #082758;
+     padding: 30px;
+}
+
+#logo {
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+#menu {
+    display:flex ;
+    padding-right: 40px;
+    gap: 30px;
+    justify-content: end;
+}
+
+
+h1 {
+ color: white;
+}
+
+a {
+    color: black;
+    background-color: gold;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+h2 {
+    text-align: center;
+    padding-bottom: 30px;
+    font-size: 60px;
+}
+
+#introducao {
+    background-color: rgba(98, 135, 255, 0.178);
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    gap: 50px;
+    padding: 30px;
+}
+
+#serra {
+    width: 300px;
+    height: 300px
+}
+
+#titulocards {
+    padding-left: 40px;
+    padding-top: 20px;
+}
+
+h3 {
+    font-size: 50px;
+}
+
+#cards {
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 40px;
+}
+
+#card p {
+    padding: 10px;
+    color: rgb(105, 103, 103);
+}
+
+h4 {
+    padding-left: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.card img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.card {
+    background-color: white;
+    padding: 20px;
+    width: 30%;
+}
+
+#rodape {
+    background-color: #082758;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    gap: 20px;
+}
+
+small {
+    color: white;
+    display: flex;
+}
